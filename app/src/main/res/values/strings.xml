@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SqliteDepts</string>
+    <string name="noDept">No Département</string>
+    <string name="noRegion">No Région</string>
+    <string name="nomDept">Nom</string>
+    <string name="nomStdDept">Nom Std</string>
+    <string name="areaDept">Surface</string>
+    <string name="createdDateDept">Date Création</string>
+    <string name="urlDept">Url</string>
+    <string name="capitalDept">Chef Lieu</string>
+    <string name="noToSearch">No à chercher</string>
+    <string name="errDeptNotFound">Département non trouvé</string>
+    <string name="errBadNoDept">Département non trouvé</string>
+    <string name="errDateCreation">Erreur Date Création</string>
+</resources>
